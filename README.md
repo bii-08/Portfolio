@@ -15,6 +15,10 @@ This is the latest app I built and released on the App Store. The idea for this 
 The app features an instant word lookup, allowing users to simply tap on any word to reveal its definition, save words to their own word books, and review them effectively later.<br />
 <br />
 See more documentation about this project and the code [here](https://github.com/bii-08/Bookworm)
+<br />
+<br />
+[![OwlReader app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)]()
+<br />
 
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/OwlReader_Screenshot.png)
 
@@ -30,8 +34,10 @@ The goal of the puzzle is to place the tiles in order by making sliding moves th
 I built this app with 2 types of games for users to choose from: a classic game with numbered tiles and a picture game with a hints feature.
 <br />
 <br />
-See more documentation about this project and the code [here](https://github.com/bii-08/Sliding15PuzzleGame)
-
+See more documentation about this project and the code [here](https://github.com/bii-08/Sliding15PuzzleGame)<br />
+<br />
+[![Sliding15Puzzle app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/jp/app/sliding-15-puzzle/id6483005268?l=en-US)
+<br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/15Puzzle_Screenshot.png)
 <br />
 ### Thanks for stopping by 😊
