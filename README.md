@@ -39,7 +39,20 @@ See more documentation about this project and the code [here](https://github.com
 [![Sliding15Puzzle app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/jp/app/sliding-15-puzzle/id6483005268?l=en-US)
 <br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/15Puzzle_Screenshot.png)
+
+## Avid Cook
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
 <br />
+<br />
+Avid Cook is a recipe app
+<br />
+<br />
+See more documentation about this project and the code [here](https://github.com/bii-08/AvidCook)<br />
+<br />
+![Image](https://github.com/bii-08/Portfolio/blob/main/Images/AvidCook_Screenshot.png)
+
 ### Thanks for stopping by 😊
 
 # 📱 Contact Info:
