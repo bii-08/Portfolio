@@ -46,7 +46,9 @@ See more documentation about this project and the code [here](https://github.com
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
 <br />
 <br />
-Avid Cook is a recipe app
+Avid Cook is a recipe app that lets you explore thousands of recipes through a search bar or choose from our everyday Top Picks. <br />
+Save your favorite recipes for quick access later, or add ingredients to your shopping list with a single tap.<br />
+I built this app using the API from spoonacular.com to practice my skills with the intention of turning it into a commercial product in the near future.
 <br />
 <br />
 See more documentation about this project and the code [here](https://github.com/bii-08/AvidCook)<br />
