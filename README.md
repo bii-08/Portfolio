@@ -17,7 +17,7 @@ The app features an instant word lookup, allowing users to simply tap on any wor
 See more documentation about this project and the code [here](https://github.com/bii-08/Bookworm)
 <br />
 <br />
-[![OwlReader app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)]()
+[![OwlReader app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/owl-reader/id6505064532)
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/OwlReader_Screenshot.png)
 
 ## The 15 Puzzle
