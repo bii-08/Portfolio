@@ -2,7 +2,8 @@
 I'm a self-taught freelance iOS Developer.
 This repo serves as a portfolio of projects I'm currently working on. Please take a look around.
 
-## Owl Reader
+## iOS Applications
+### Owl Reader
 ![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
 ![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
@@ -20,7 +21,7 @@ See more documentation about this project and the code [here](https://github.com
 [![OwlReader app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/owl-reader/id6505064532)
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/OwlReader_Screenshot.png)
 
-## The 15 Puzzle
+### The 15 Puzzle
 ![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
 ![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
@@ -38,7 +39,7 @@ See more documentation about this project and the code [here](https://github.com
 <br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/15Puzzle_Screenshot.png)
 
-## Avid Cook
+### Avid Cook
 ![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
 ![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-green)
@@ -52,6 +53,19 @@ I built this app using the API from spoonacular.com to practice my skills with t
 See more documentation about this project and the code [here](https://github.com/bii-08/AvidCook)<br />
 <br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/AvidCook_Screenshot.png)
+
+## Swift Packages
+### SwipeTammie
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+<br />
+<br />
+SwipeTammie is a SwiftUI package that enables you to add customizable swipe actions to any view. <br />
+This package provides a simple and flexible way to implement swipeable actions on both left and right swipe directions.
+<br />
+<br />
+See more documentation about this project and the code [here](https://github.com/bii-08/SwipeTammie)<br />
+<br />
+![Image](https://github.com/bii-08/Portfolio/blob/main/Images/SwipeActionDemo.gif)
 
 ### Thanks for stopping by 😊
 
