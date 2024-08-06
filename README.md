@@ -21,6 +21,26 @@ See more documentation about this project and the code [here](https://github.com
 [![OwlReader app link](https://github.com/bii-08/Portfolio/blob/main/Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/owl-reader/id6505064532)
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/OwlReader_Screenshot.png)
 
+### Waste Not!
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
+![Data Persistence](https://img.shields.io/badge/Data_Persistence-SwiftData-blue)
+![Static Badge](https://img.shields.io/badge/Widget_Extension-green)
+![Static Badge](https://img.shields.io/badge/Local_Notification-orange)
+<br />
+<br />
+Do you ever have a problem where you forget your food and it expires without you knowing? <br />
+<br />
+Waste Not is an app designed to help you track the expiry dates of your goods. Stay organized and ensure your items never go to waste with timely notifications and quick glances through widgets. <br />
+<br />
+See more documentation about this project and the code [here](https://github.com/bii-08/WasteNot)
+<br />
+<br />
+![Image](https://github.com/bii-08/WasteNot/blob/main/Readme_Images/Screenshots.png)
+<br />
+<br />
+<br />
+
 ### The 15 Puzzle
 ![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
 ![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
