@@ -98,6 +98,14 @@ See more documentation about this project and the code [here](https://github.com
 <br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/toasty.png)
 
+## Personal blog
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+<br />
+<br />
+I created [my personal blog](https://bii-08.github.io/) using John Sundell's [Publish](https://github.com/JohnSundell/Publish) framework and deployed it on GitHub Pages to share my experiences working with `Swift` and `SwiftUI`.
+
+
+![Image](https://github.com/bii-08/Portfolio/blob/main/Images/Personal-blog.png)
 ### Thanks for stopping by 😊
 
 # 📱 Contact Info:
