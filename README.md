@@ -87,6 +87,17 @@ See more documentation about this project and the code [here](https://github.com
 <br />
 ![Image](https://github.com/bii-08/Portfolio/blob/main/Images/SwipeActionDemo.gif)
 
+### Toasty
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+<br />
+<br />
+**Toasty** is a customizable pop-up toast message for SwiftUI, designed to provide quick feedback or notifications to users.
+<br />
+<br />
+See more documentation about this project and the code [here](https://github.com/bii-08/Toasty)<br />
+<br />
+![Image](https://github.com/bii-08/Portfolio/blob/main/Images/toasty.png)
+
 ### Thanks for stopping by 😊
 
 # 📱 Contact Info:
