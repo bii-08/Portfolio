@@ -2,7 +2,20 @@
 I'm a self-taught freelance iOS Developer.
 This repo serves as a portfolio of projects I'm currently working on. Please take a look around.
 
-## iOS Applications
+## iOS / MacOS Applications
+### Kanban Board (MacOS)
+![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
+![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
+![Data Persistence](https://img.shields.io/badge/Data_Persistence-SwiftData-blue)
+![Supported Device](https://img.shields.io/badge/Supported_Device-Mac_OS-red)<br />
+<br />
+A lightweight, Trello-inspired Kanban board built natively for MacOS. It allows users to create, reorder, and organize cards across multiple column with smooth drag-and-drop support. Designed with local persistence, offline-first architecture, and a focus on clean UI.<br />
+<br />
+See more documentation about this project and the code [here](https://github.com/bii-08/Kanban-Board-iOS)
+<br />
+<br />
+![Image](https://github.com/bii-08/Portfolio/blob/main/Images/KanbanBoard_iOS_Screenshot.png)
+
 ### Owl Reader
 ![Buit on](https://img.shields.io/badge/Built_on-Swift-red?logo=Swift)
 ![Interface](https://img.shields.io/badge/Interface-SwiftUI-yellow)
